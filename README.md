@@ -9,11 +9,11 @@
     </a>
 </p>
   
-Ever get an idea and it seems like a good idea in the moment, but eventually, you come to realize that it's a bad idea... But you've already sunk so much time into it that you have to follow through? Welcome to the flaskcli3000 (rhetorical)
+Ever get an idea and it seems like a good idea in the moment, but eventually, you come to realize that it's a bad idea... But you've already sunk so much time into it that you have to follow through? Welcome to the flaskcli3000
 
-Are you tired of your alcoholism being boring and manageable and shit? Well boy have I got the product for youuuuuu (rhetorical)
+Are you tired of your alcoholism being boring and manageable and shit? Well boy have I got the product for youuuuuu
 
-Diego, I hear you ask, how do I use this garbage? (not rhetorical)
+Diego, I hear you ask, how do I use this garbage?
 
 Well nosy little shit, just follow the steps:
 *reeeeeeeeeeeeeeeeeeeeeeeeeee*
