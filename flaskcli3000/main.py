@@ -16,7 +16,6 @@ def flaskcli3000():
 @click.option('-t', '--type', help='Type of API')
 @flaskcli3000.command()
 def create_api(name: str, design: str, framework: str, type: str):
-    """Create api"""
     # TODO: validate design and framework options (ENUM)
     # TODO: choose mvc template (https://github.com/bamboo-yujiro/flask-mvc-sample? https://github.com/CharlyJazz/Flask-MVC-Template?)
 

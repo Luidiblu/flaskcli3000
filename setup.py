@@ -10,7 +10,7 @@ reqs = [str(ir.req) for ir in install_reqs]
 
 setuptools.setup(
     name='flaskcli3000',
-    version='0.1',
+    version='0.5',
     scripts=['./flaskcli3000/main.py'],
     author='Diego Pisani',
     description='Gadzoooks!',
