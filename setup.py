@@ -12,7 +12,7 @@ setuptools.setup(
     name='flaskcli3000',
     version='0.5',
     scripts=['./flaskcli3000/main.py'],
-    author='Diego Pisani',
+    author='Luidiblu',
     description='Gadzoooks!',
     packages=['flaskcli3000'],
     install_requires=reqs,
